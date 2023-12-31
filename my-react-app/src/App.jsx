@@ -1,15 +1,13 @@
-
+import Card from "./Card";
 
 function App() {
   
     return(
       <>
-        <Header/>
-        <Food/>
-        <Food/>
-        <Food/>
-        <Food/>
-        <Footer/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
       </>
       
     );
