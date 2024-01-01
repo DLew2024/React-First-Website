@@ -1,13 +1,10 @@
 
+import Counter from "./Counter";
+import MyComponent from "./MyComponent";
 
 function App() {
   
-    return(
-      <>
-       
-      </>
-      
-    );
+    return(<><Counter/></>);
 }
 
 export default App
